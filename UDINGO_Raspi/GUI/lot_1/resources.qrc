@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="parkinglot">
+    <file>test3.png</file>
+    <file>004.png</file>
+    <file>003.png</file>
+    <file>prototype.jpg</file>
+  </qresource>
+</RCC>
